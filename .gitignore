@@ -1,0 +1,4 @@
+.env
+./ChaatsEnv
+__pycache__/
+.env.example
